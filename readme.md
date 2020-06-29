@@ -1,4 +1,4 @@
--------TERMINAL COMMAND FOR LIFE SUPPORT ACTIVATION------------
+-------TERMINAL COMMAND TO RUN PROG------------
 python -m venv .venv
 
 .venv\Scripts\activate
